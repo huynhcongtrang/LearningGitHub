@@ -1,0 +1,4 @@
+** git log : dùng để hiển thị file
+** git show + mã file : dùng để hiển thị chi tiết bên trong
+** git diff : different
+
