@@ -2,3 +2,8 @@
 ** git show + mã file : dùng để hiển thị chi tiết bên trong
 ** git diff : different
 
+woking directory
+Staging area
+repository
+
+**
