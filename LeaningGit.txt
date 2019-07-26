@@ -7,5 +7,18 @@ Staging area
 repository
 
 **
-git checkout 
-git reset  
+git checkout: bo di su thay doi cua file
+git reset   : bo di tu staging
+** create branch
+	+ git checkout -b <branch>
+	+ git checkout <branch> : switch branch
+	+ git merge : merge branch
+   how to merge: A <---- B
+	Step1 : git checkout A: switch branch to A
+	Step2 : git merge B: merge B to A
+   how to delete branch : git branch -d <branch>
+	
+*git reset --soft <shaid> quay lai cai commit co shaid la gi do : con nam trong staging area
+*git reset --mixed <shaid> quay lai cai commit co shaid la gi do : nam trong woking directory
+*git reset --hard <shaid> bo han commit truoc do di. dung can than chhu de mat du lieu
+*git revert <commit> quay lai mot dong nao do...
