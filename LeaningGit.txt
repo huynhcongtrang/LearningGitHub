@@ -7,3 +7,5 @@ Staging area
 repository
 
 **
+git checkout 
+git reset  
