@@ -24,3 +24,9 @@ git reset   : bo di tu staging
 *git revert <commit> quay lai mot dong nao do...
 * git clone : tai nguyen cai project ve
 * git pull : tai ve cai nao thay doi thoi
+
+
+** pull request
+tao brack
+git push origin <branch>
+
