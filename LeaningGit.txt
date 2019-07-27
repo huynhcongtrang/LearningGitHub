@@ -22,3 +22,5 @@ git reset   : bo di tu staging
 *git reset --mixed <shaid> quay lai cai commit co shaid la gi do : nam trong woking directory
 *git reset --hard <shaid> bo han commit truoc do di. dung can than chhu de mat du lieu
 *git revert <commit> quay lai mot dong nao do...
+* git clone : tai nguyen cai project ve
+* git pull : tai ve cai nao thay doi thoi
